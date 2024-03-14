@@ -13,7 +13,7 @@ Prototype of a NFT Marketplace based on openZeppelin abstract upgradeable ERC721
 This project relies on [NFT Contracts](https://github.com/silviopaganini/nft-contracts) package and [NFT Lambda Service](https://github.com/silviopaganini/nft-market-service) for serving the metadata
 
 ## 🔬 Functionalities
-
+   
 1. Buy a pre-minted token.
 2. Sell the token that was bought.
 3. Transferring ETH to the previous token holder;
